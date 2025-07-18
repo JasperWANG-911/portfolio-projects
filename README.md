@@ -1,5 +1,3 @@
-# Computer Vision Portfolio - Planarific Projects
-
 ## About
 
 This repository showcases computer vision and deep learning projects developed during my time at Planarific as a software engineer intern, demonstrating practical solutions for real-world challenges in construction and infrastructure inspection using aerial imagery.
